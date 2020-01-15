@@ -1,0 +1,72 @@
+{
+  "_from": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+  "_id": "cordova-plugin-add-swift-support@1.6.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-add-swift-support",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+    "rawSpec": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+    "saveSpec": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+    "fetchSpec": "https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git#10ba07db7dbc2173302271954b21f57359588b53",
+  "_shasum": "286f00151edee1187678a89b6e5565ac7ac13a3f",
+  "_spec": "git+https://github.com/MohamedMardona/ionic-cordova-plugin-add-swift-support.git",
+  "_where": "/Users/moramadan/Documents/work/tahweel/MainStream Geofence Last/tahweel",
+  "author": {
+    "name": "Alexis Kofman",
+    "email": "alexis.kofman@gmail.com",
+    "url": "http://twitter.com/alexiskofman"
+  },
+  "bugs": {
+    "url": "https://github.com/akofman/cordova-plugin-add-swift-support/issues"
+  },
+  "bundleDependencies": [
+    "xcode"
+  ],
+  "cordova": {
+    "id": "cordova-plugin-add-swift-support",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "xcode": "^0.8.3"
+  },
+  "deprecated": false,
+  "description": "Add Swift support to your iOS plugins",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0"
+  },
+  "homepage": "https://github.com/akofman/cordova-plugin-add-swift-support",
+  "keywords": [
+    "cordova",
+    "ios",
+    "swift",
+    "swift-support",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova:plugin"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-add-swift-support",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akofman/cordova-plugin-add-swift-support.git"
+  },
+  "scripts": {
+    "test": "eslint src"
+  },
+  "version": "1.6.0"
+}
